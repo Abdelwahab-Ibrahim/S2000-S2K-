@@ -1,2 +1,4 @@
 # S2000-S2K-
-This is S2000.
+```javascript
+console.log("This is S2000");
+```
