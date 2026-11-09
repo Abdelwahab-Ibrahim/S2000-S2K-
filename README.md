@@ -12,6 +12,7 @@ console.log("This is S2000");
 | Obsidian black | Obsidian Black | `#080706` | `8, 7, 6` | Main background |
 | Magma red | Magma Red | `#D35749` | `211, 87, 73` | Accent, buttons, notifications |
 | Charcoal black | Charcoal Black | `#111111` | `17, 17, 17` | Cards, panels, navigation |
+| Electric green | Electric Green | `#55F28A` | `85, 242, 138` | Accent |
 
 ## CSS Variables
 
@@ -21,5 +22,6 @@ console.log("This is S2000");
     --obsidian-black: #080706;
     --magma-red:      #D35749;
     --charcoal-black: #111111;
+    --electric-green: #55F28A;
 }
 ```
